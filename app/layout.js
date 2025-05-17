@@ -1,7 +1,7 @@
 import './globals.css'
 
-import nav from './components/nav'
-import footer from './components/footer'
+import nav from '/components/nav'
+import footer from '/components/footer'
 
 export const metadata = {
   title: 'Simrah Portfolio',
